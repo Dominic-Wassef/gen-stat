@@ -1,0 +1,5 @@
+**/target
+**/public
+**/.vscode
+tarpaulin-report.html
+pkg/
